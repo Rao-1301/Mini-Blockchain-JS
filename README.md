@@ -4,6 +4,10 @@ Barot Pranav
 Student ID: 16373096
 Assignment 1- Extended mini blockchain in JS
 
+A simple blockchain built in JavaScript featuring Proof-of-Work mining,  
+transaction arrays, chain validation, and tamper detection.
+run : node blockchain.js to run the code
+
 Blockchain.js 
 1.	The following code defines the Block class which represents a single block in the blockchain. The block has several properties: index, timestamp, transaction data, previous hash, and nonce for mining. 
 calculateHash() generates block’s first hash
